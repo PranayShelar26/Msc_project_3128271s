@@ -1,0 +1,4 @@
+CPU(s):                                  16
+Thread(s) per core:                      2
+Core(s) per socket:                      8
+Socket(s):                               1
