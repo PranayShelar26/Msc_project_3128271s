@@ -1,8 +1,8 @@
 # Cross-Architecture Energy Prediction for Scientific Workflow Tasks
 
 MSc Dissertation — School of Computing Science, University of Glasgow
-Author: Pranay Prakash Shelar
-
+Name: Pranay Prakash Shelar
+Student Id: 3128271S
 This repository contains the code used for this dissertation: data processing,
 model training, cross-architecture and cross-vendor evaluation, and the
 energy-aware scheduling simulation.
